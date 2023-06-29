@@ -1,0 +1,11 @@
+#include<stdio.h>
+int main()
+{
+int a,b,c;
+printf("enter a and b value:");
+scanf("%d",&a);
+c=a+b;
+print("result is:%d",c);
+}
+
+

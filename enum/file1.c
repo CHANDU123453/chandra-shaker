@@ -5,5 +5,6 @@ int main()
 enum directions d;
 d=north;
 printf("%d\n",d);
+return 0;
 }
 
